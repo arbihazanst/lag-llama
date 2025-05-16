@@ -23,16 +23,6 @@ Evaluate Lag-Llama's effectiveness in modeling temporal patterns and market vola
   - e.g., **Top 1–9 stocks** → **CRPS = 0.0517**
 - **Lag-Llama** shows strong potential when forecasting **select, related stocks**, offering high precision and reliability.
 
-## 📂 Repository Structure
-
-```
-.
-├── data/                   # Normalized price data for IDX stocks
-├── notebooks/             # Jupyter notebooks for preprocessing, training, evaluation
-├── results/               # CRPS scores and result tables
-└── README.md              # Project overview
-```
-
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
